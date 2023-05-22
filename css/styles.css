@@ -28,6 +28,13 @@ body {
     text-decoration: none;
 }
 
+.adress {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
 .studio {
     width: 115px;
     height: 24px;
