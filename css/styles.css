@@ -1,9 +1,22 @@
-.logo {
-    width: 115px;
-    height: 24px;
-    left: 156px;
-    top: 24px;
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.link {
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
     color: #4D5AE5;
+}
+
+.list {
+    list-style: none;
+
 }
 
 .studio {
@@ -14,11 +27,28 @@
     color: #2E2F42;
 }
 
+.orderservice {
+    background-color: #2e2f42;
+}
+
+.tittle {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
 .button {
-    width: 586px;
-    height: 48px;
-    left: 427px;
-    top: 168px;
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    background-color: #404BBF;
+    cursor: pointer;
 }
 
 .button-style {
