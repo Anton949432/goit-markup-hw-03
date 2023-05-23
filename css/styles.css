@@ -22,6 +22,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    background-color: #FFFFFF;
 }
 
 .listp {
@@ -38,6 +39,7 @@ body {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    font-style: normal;
 }
 
 .link {
@@ -96,6 +98,20 @@ body {
     color: #2e2f42;
 }
 
+.footer {
+    background-color: #2e2f42;
+
+}
+
+.studio {
+    color: #f4f4fd
+}
+
+.p-footer {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
 
 .button {
     background-color: #4D5AE5;
@@ -120,4 +136,5 @@ body {
     padding: 12px 24px;
     width: 69px;
     height: 48px;
+    background-color: #4D5AE5
 }
