@@ -4,6 +4,10 @@ body {
     background-color: #FFFFFF;
 }
 
+:root {
+    text-decoration: none;
+}
+
 .logo {
     font-weight: 800;
     font-size: 18px;
@@ -43,7 +47,7 @@ body {
 }
 
 .link {
-    text-decoration: none;
+    text-decoration: var(text-decoration);
 }
 
 .adress {
@@ -189,4 +193,12 @@ body {
 
 .port-a {
     color: #2e2f42;
+}
+
+.button:hover {
+    background-color: #404BBF;
+}
+
+.button:focus {
+    background-color: #404BBF;
 }
