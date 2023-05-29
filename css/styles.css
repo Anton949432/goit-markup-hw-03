@@ -178,3 +178,11 @@ body {
 .menu-item {
     color: #434455;
 }
+
+.menu-item:hover {
+    color: #404bbf;
+}
+
+.menu-item:focus {
+    color: #404bbf;
+}
