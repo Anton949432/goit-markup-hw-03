@@ -174,3 +174,7 @@ body {
 .link:focus {
     color: #404bbf;
 }
+
+.menu-item {
+    color: #434455;
+}
