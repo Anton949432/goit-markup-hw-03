@@ -168,7 +168,7 @@ body {
 }
 
 .head-a {
-    color: var(-head-a)
+    color: var(-head-a);
 }
 
 .link:hover {
