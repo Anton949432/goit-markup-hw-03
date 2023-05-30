@@ -5,7 +5,7 @@ body {
 }
 
 :root {
-    text-decoration: none;
+    -head-a: #2e2f42;
 }
 
 .logo {
@@ -167,8 +167,8 @@ body {
     color: #434455;
 }
 
-.heada {
-    color: #2e2f42;
+.head-a {
+    color: var(-head-a)
 }
 
 .link:hover {
