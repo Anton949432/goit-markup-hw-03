@@ -1,7 +1,11 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #434455;
+    color: var(--body-color);
     background-color: #FFFFFF;
+}
+
+:root {
+    --body-color: #434455;
 }
 
 .logo {
