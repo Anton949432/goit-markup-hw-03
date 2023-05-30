@@ -4,10 +4,6 @@ body {
     background-color: #FFFFFF;
 }
 
-:root {
-    -head-a: #2e2f42;
-}
-
 .logo {
     font-weight: 800;
     font-size: 18px;
@@ -168,7 +164,7 @@ body {
 }
 
 .head-a {
-    color: var(-head-a);
+    color: #2e2f42;
 }
 
 .link:hover {
