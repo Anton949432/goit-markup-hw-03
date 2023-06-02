@@ -48,6 +48,7 @@ body {
     color: #2e2f42;
     background-color: #FFFFFF;
     display: flex;
+    gap: 40px;
 }
 
 .listp {
@@ -69,6 +70,7 @@ body {
 
 .link {
     text-decoration: none;
+    padding: 24px 0 24px;
 }
 
 .adress {
@@ -202,6 +204,8 @@ body {
 
 .menu-item {
     color: #434455;
+    padding: 24px 0 24px;
+    gap: 40px;
 }
 
 .menu-item:hover {
