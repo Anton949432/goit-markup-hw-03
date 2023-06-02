@@ -8,6 +8,25 @@ body {
     --body-color: #434455;
 }
 
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
+
+.head-div {
+    display: flex;
+}
+
+.container {
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px 0 15px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
 .logo {
     font-weight: 800;
     font-size: 18px;
@@ -17,6 +36,7 @@ body {
     text-decoration: none;
     font-family: "Raleway", sans-serif;
     color: #4D5AE5;
+    margin-right: 76px;
 }
 
 .list {
@@ -27,6 +47,7 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
     background-color: #FFFFFF;
+    display: flex;
 }
 
 .listp {
