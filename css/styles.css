@@ -51,6 +51,14 @@ body {
     gap: 40px;
 }
 
+.list-products {
+    gap: 24px;
+}
+
+.prod-li {
+    width: calc((100% - 72px) / 4);
+}
+
 .img-section {
     padding: 120px 0 120px;
 }
@@ -70,6 +78,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     font-style: normal;
+    margin-bottom: 8px;
 }
 
 .link {
