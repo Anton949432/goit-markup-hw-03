@@ -6,6 +6,7 @@ body {
 
 :root {
     --body-color: #434455;
+    --border: 1px solid #e7e9fc;
 }
 
 .header {
@@ -245,8 +246,7 @@ body {
     background-color: #F4F4FD;
     cursor: pointer;
     padding: 12px 24px;
-    border: 1px solid #e7e9fc;
-    border: 1px solid transparent;
+    border: var(--border);
     border: 1px solid transparent;
     border-radius: 4px;
 }
