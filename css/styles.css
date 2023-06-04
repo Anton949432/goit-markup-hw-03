@@ -114,6 +114,7 @@ body {
     justify-content: center;
     gap: 24px;
     margin-bottom: 72px;
+    text-align: center;
 }
 
 .list-tittle {
@@ -171,9 +172,17 @@ body {
     padding: 120px 0 120px;
 }
 
+.li-team {
+    border-radius: 0px 0px 4px 4px;
+}
+
 .team-img {
     background-color: #FFFFFF;
     display: block;
+}
+
+.div-team {
+    padding: 32px 16px;
 }
 
 .titlle-img {
@@ -182,6 +191,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-align: center;
 }
 
 .footer {
@@ -267,6 +277,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 
 .p-port {
@@ -274,7 +285,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    margin-bottom: 8px;
 }
 
 .head-a {
