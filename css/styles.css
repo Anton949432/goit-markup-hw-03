@@ -336,3 +336,11 @@ img {
 .button:focus {
     background-color: #404BBF;
 }
+
+.button-port:hover {
+    border: 1px solid transparent;
+}
+
+.button-port:focus {
+    border: 1px solid transparent;
+}
