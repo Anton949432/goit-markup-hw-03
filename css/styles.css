@@ -83,7 +83,7 @@ img {
 }
 
 .list-products {
-    gap: 24px;
+    width: calc((100% - 72px) / 4);
 }
 
 .list-img {
@@ -96,7 +96,7 @@ img {
 }
 
 .li-prod {
-    gap: 24px;
+    width: calc((100% - 72px) / 4);
 }
 
 .li-gap {
