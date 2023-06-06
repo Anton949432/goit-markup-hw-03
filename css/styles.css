@@ -82,13 +82,14 @@ img {
     gap: 24px;
 }
 
-.list-products {
-    width: calc((100% - 72px) / 4);
-}
-
 .list-img {
     gap: 24px;
     display: flex;
+}
+
+.list-products {
+    padding: 0;
+    gap: 24px;
 }
 
 .li-img {
