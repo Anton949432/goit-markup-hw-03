@@ -95,6 +95,10 @@ img {
     flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
+.li-prod {
+    flex-basis: calc((100% - 72px) / 4);
+}
+
 .li-gap {
     gap: 24px;
 }
